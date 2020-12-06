@@ -1,0 +1,41 @@
+.navbar-custom { 
+    padding: 10px;
+    background-color:#4ca78d; 
+} 
+
+  .navbar-light .navbar-brand {
+    display: inline-block;
+    padding-right: 1.4125rem;
+    padding-left: 1.4125rem;
+    padding-top: 0.4125rem;
+    padding-bottom: 0.4125rem;
+    margin-right: 5rem;
+    font-size: 1.25rem;
+    line-height: inherit;
+    white-space: nowrap;
+    background: #4ca78d;
+    font-weight: bold;
+    color: #edf5f3;
+  }
+
+  .navbar-brand {
+    display: inline-block;
+    padding-right: 1.4125rem;
+    padding-left: 1.4125rem;
+    padding-top: 0.4125rem;
+    padding-bottom: 0.4125rem;
+    margin-right: 5rem;
+    font-size: 1.25rem;
+    line-height: inherit;
+    white-space: nowrap;
+    background: #4ca78d;
+    font-weight: bold;
+    color: #edf5f3;
+  }
+
+  h1 {
+    font-size: 30px;
+    font-weight: bold;
+    color: #4ca78d;
+    padding: 10px;
+  }
